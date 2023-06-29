@@ -1,0 +1,32 @@
+h2 {
+    color: #FF2171;
+    text-transform: uppercase;
+}
+
+li {
+    font-size: 20px;
+    color: darkred;
+}
+
+h1 {
+    text-transform: uppercase;
+    color: #3F2305;
+}
+
+
+a {
+    color: goldenrod;
+}
+
+img {
+    width: 700px;
+}
+
+article {
+    border: 0px solid;
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+}
